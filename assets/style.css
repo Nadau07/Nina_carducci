@@ -40,7 +40,9 @@ body {
 
 .social-link img {
 	width: 20px;
+	height:20px;
 }
+
 
 #about {
 	display: flex;
@@ -68,9 +70,10 @@ body {
 }
 
 .picture img {
-	width: 100%;
-
+	width: 357px;
+	height:356px;
 }
+
 #about-me {
 	flex: 2
 }
@@ -91,7 +94,7 @@ body {
 }
 
 #gallery {
-	/*	min-height: 100vh; */
+	min-height: 100vh;
 }
 .title{
 	text-align: center;
@@ -110,7 +113,7 @@ body {
 }
 .item-column {
 	position: relative;
-	margin-bottom: 0 !important;
+	margin-bottom: 0;
 	padding: 0;
 }
 .item-column::after{

@@ -344,9 +344,4 @@ input[type="submit"] {
     width: 80%;
   }
 
-  .carousel-inner {
-    width: 100%;
-    height: 50%;
-    margin-bottom: 10px;
-  }
 }
